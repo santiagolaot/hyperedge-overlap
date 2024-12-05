@@ -1,7 +1,6 @@
 //This code corresponds to the article: 
 //   Malizia, F., Lamata-Otín S., Frasca, M., Latora, V. and Gómez-Gardeñes, J.
 //   'Hyperedge overlap drives explosive transitions in systems with higher-order interactions' 
-//   Nature Communications (2024)
 
 //This code allows for the integration of the dynamics of the higher-order Kuramoto model in a network with hyperedges of order 2 and 3, and computes the order parameters
 
