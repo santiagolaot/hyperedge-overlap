@@ -8,11 +8,17 @@ Recent studies have shown that novel collective behaviors emerge in complex syst
 
 # Contents of the repository
 
-#### Hyperedge overlap: metric and structures: This folder contains the code to compute the metric and generate the structures
+#### Hyperedge overlap: metric and structures: 
 
-#### HO-SIS dynamics: This folder contains the code to perform the numerical simulations of higher-order SIS dynamics
+This folder contains the code to compute the metric and generate the structures
 
-#### HO-Kuramoto: This folder contains the code to integrate the higher-order Kuramoto dynamics
+#### HO-SIS dynamics: 
+
+This folder contains the code to perform the numerical simulations of higher-order SIS dynamics
+
+#### HO-Kuramoto: 
+
+This folder contains the code to integrate the higher-order Kuramoto dynamics
 
 
 
