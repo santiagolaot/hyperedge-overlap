@@ -8,7 +8,7 @@ Recent studies have shown that novel collective behaviors emerge in complex syst
 
 # Contents of the repository
 
-#### Hyperedge overlap: metric and structures 
+#### Hyperedge overlap
 
 This folder contains the code to compute the metric and generate the structures.
 
