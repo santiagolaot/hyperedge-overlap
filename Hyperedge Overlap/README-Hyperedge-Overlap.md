@@ -5,32 +5,22 @@ The code has been originally run on a machine containing the following Python de
 <ul>
 
 <li>
-  stdlib
+  numpy
 </li>
 <li>
-  stdio
+  numba
 </li>
 <li>
-  math
+  networkx
 </li>
 <li>
-  time
+  random
 </li>
   
 </ul>
 
-
 # Code scripts
 
-`run-HO-Kuramoto.sh` is the bash script that launches the simulations.
+`Hyperedge-overlap.py` is the python script containing all the utilities, together with a snippet for obtaining the synthetic structures used in the article.
 
-`HO-Kuramoto.c` is the c file with the structured code.
-
-`HO-Kuramoto-utils.h` is the file that complements `HO-Kuramoto.c`, as it contains the functions.
-
-# Input and output folders
-
-The `Hypergraphs` folder locates the input structures, in the format of a list of groups.
-
-The `Results` folder locates the outputs of the run.
 
