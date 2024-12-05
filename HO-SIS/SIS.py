@@ -128,7 +128,7 @@ iters = 100
 lambdas_1 = np.arange(0,2.5,0.01)
 num_lambdas1 = int(len(lambdas_1))
 
-init_frac = 0.99
+init_frac = 0.9
 num_inf_upper = int(N*init_frac)
 
 fixed_init = np.zeros((iters,num_inf_upper),dtype=np.int64)
