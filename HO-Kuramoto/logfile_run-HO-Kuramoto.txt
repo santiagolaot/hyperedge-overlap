@@ -1,0 +1,28 @@
+(2024-12-05 17:55:08) Parameters:
+Network_Type=Regular_Hg
+N=1000, k_Pairs_teo=5, k_Delta_teo=6, Intra_order_hyperedge_overlap=1
+Iter_burn=8000, Iter=10000, h=0.01, sigma_T=3, sigma_P=8
+phase_factor=1, freq_factor=1
+Program launched successfully.
+
+Dynamical parameters:
+1-hyperedges strength=8.0000
+2-hyperedges strength=3.0000
+Phase factor=1.0000
+
+
+Simulation parameters:
+Iterations=10000
+Integration step=0.0100
+Burn-in iterations=8000
+
+
+Hypergraph characteristics:
+Number of nodes: 1000
+Average 1-hyperedges degree: 5.000000
+Maximum 1-hyperedges degree: 5
+Average 2-hyperedges degree: 6.000000
+Maximum 2-hyperedges degree: 6
+
+
+END SIMULATION
