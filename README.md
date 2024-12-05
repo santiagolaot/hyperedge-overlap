@@ -12,7 +12,7 @@ Recent studies have shown that novel collective behaviors emerge in complex syst
 
 This folder contains the code to compute the metric and generate the structures.
 
-#### HO-SIS dynamics 
+#### HO-SIS
 
 This folder contains the code to perform the numerical simulations of higher-order SIS dynamics.
 
