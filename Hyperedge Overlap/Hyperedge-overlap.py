@@ -238,7 +238,7 @@ def intra_order_overlap(triangles_list):
         list_k2_nodes[b] += 1
         list_k2_nodes[c] += 1
     
-    local_intra_order_overlap = np.ones(N, dtype=np.float64)
+    local_intra_order_overlap = np.zeros(N, dtype=np.float64)
     
     for i in range(N):
         k2 = int(list_k2_nodes[i])  
@@ -256,7 +256,7 @@ def intra_order_overlap(triangles_list):
         union_cardinality = len(union_set)
         local_intra_order_overlap[i] = 1 - (union_cardinality - min_cardinality) / (max_cardinality - min_cardinality)    
     
-        global_intra_order_overlap = np.dot(local_intra_order_overlap, list_k2_nodes) / np.sum(list_k2_nodes)
+    global_intra_order_overlap = np.dot(local_intra_order_overlap, list_k2_nodes) / np.sum(list_k2_nodes)
     
     return global_intra_order_overlap,local_intra_order_overlap
 
