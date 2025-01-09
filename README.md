@@ -1,6 +1,8 @@
-# Code for "Hyperedge overlap drives explosive transitions in systems with higher-order interactions"
+# Hyperedge overlap drives explosive transitions in systems with higher-order interactions
 
-This code files contains the core code to perform the numerical simulations in 'Hyperedge overlap drives explosive transitions in systems with higher-order interactions'.
+This code files contains the core code to perform the numerical simulations in the following paper:
+
+Malizia, F., Lamata-Otín, S., Frasca, M., Latora, V. & Gómez-Gardeñes, J., [Hyperedge overlap drives explosive transitions in systems with higher-order interactions](https://www.nature.com/articles/s41467-024-55506-1), *Nature Communications* **16**, 555 (2025)
 
 # Abstract
 
