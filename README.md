@@ -1,6 +1,6 @@
 # Hyperedge overlap drives explosive transitions in systems with higher-order interactions
 
-This code files contains the core code to perform the numerical simulations in the following paper:
+This code files contains the core code to perform the numerical simulations in the following papers:
 
 - F. Malizia, S. Lamata-Otín, M. Frasca, V. Latora & J. Gómez-Gardeñes. ['Hyperedge overlap drives explosive transitions in systems with higher-order interactions'](https://www.nature.com/articles/s41467-024-55506-1), *Nature Communications* **16**, 555 (2025)
 
@@ -15,15 +15,15 @@ Recent studies have shown that novel collective behaviors emerge in complex syst
 
 #### Hyperedge overlap
 
-This folder contains the code to compute the metric and generate the structures.
+This folder contains the code to compute the metric and generate the structures appearing in *Nature Communications* **16**, 555 (2025).
 
 #### HO-SIS
 
-This folder contains the code to perform the numerical simulations of higher-order SIS dynamics.
+This folder contains the code to perform the numerical simulations of higher-order SIS dynamics appearing in *Nature Communications* **16**, 555 (2025).
 
 #### HO-Kuramoto 
 
-This folder contains the code to integrate the higher-order Kuramoto dynamics.
+This folder contains the code to integrate the higher-order Kuramoto dynamics appearing in *Nature Communications* **16**, 555 (2025).
 
 #### Hyperedge overlap matrix
 
