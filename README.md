@@ -4,7 +4,7 @@ This code files contains the core code to perform the numerical simulations in t
 
 - F. Malizia, S. Lamata-Otín, M. Frasca, V. Latora & J. Gómez-Gardeñes. [Hyperedge overlap drives explosive transitions in systems with higher-order interactions](https://www.nature.com/articles/s41467-024-55506-1), *Nature Communications* **16**, 555 (2025)
 
-- S. Lamata-Otín, F. Malizia, V. Latora, M. Frasca & J. Gómez-Gardeñes. Hyperedge overlap drives synchronizability of systems with higher-order interactions, *stay tuned* (2025)
+- S. Lamata-Otín, F. Malizia, V. Latora, M. Frasca & J. Gómez-Gardeñes. Hyperedge overlap drives synchronizability of systems with higher-order interactions, *Physical Review E* (accepted, 2025)
 
   
 # Abstract
