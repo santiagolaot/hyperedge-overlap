@@ -27,11 +27,15 @@ This folder contains the code to integrate the higher-order Kuramoto dynamics ap
 
 #### Hyperedge overlap matrix
 
-This folder contains the code to compute the overlap matrix and generate the structures.
+This folder contains the code to compute the overlap matrix introduced in *Physical Review E* (Accepted)
+
+#### Structure generation
+
+This folder contains the code to generate structures with maximum overlap and then minimize the value to cover the whole spectrum of structures utilized in *Physical Review E* (Accepted)
 
 #### HO-Chaotic-Oscillators
 
-This folder contains the code to integrate the chaotic oscillator dynamics and to perform the stability analysis.
+This folder contains the code to integrate the chaotic oscillator dynamics and to perform the stability analysis appearing in *Physical Review E* (Accepted)
 
 
 
